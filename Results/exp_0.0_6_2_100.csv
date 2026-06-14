@@ -1,0 +1,2 @@
+n_total,n_fd,n_nofd,n_train_full,n_train_quantum,n_test,n_qubits,reps,C,min_magn,auc_rbf_full,acc_rbf_full,auc_rbf_sub,acc_rbf_sub,auc_qsvm,acc_qsvm,delta_auc_fair,delta_auc_full
+5942,2971,2971,4456,100,1486,6,2,1.0,0.0,0.8627259536744021,0.823014804845222,0.8505984070254633,0.8129205921938089,0.73111625960739,0.6386271870794078,-0.11948214741807328,-0.13160969406701206
